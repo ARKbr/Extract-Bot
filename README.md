@@ -10,4 +10,4 @@ There are possible improvements, such as Multi-threading for the extraction and 
 
 To download the compiled file, just click [HERE](https://u.pcloud.link/publink/show?code=XZYdFFXZ2ygjf7ER8EjQzAqWv9z824LnkIv7)
 
-- Source code will be here soon :) -
+Source code will be here soon :)
